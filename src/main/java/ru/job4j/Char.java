@@ -1,7 +1,7 @@
 package ru.job4j;
 
 public class Char {
-    public static void main() {
+    public static void main(String[] args) {
         char c1 = '\u0035';
         char c2 = '\u004D';
         char c3 = '\u006E';
